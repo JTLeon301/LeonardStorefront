@@ -1,0 +1,14 @@
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\bin\Debug\net8.0\LeonardStorefront.exe
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\bin\Debug\net8.0\LeonardStorefront.deps.json
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\bin\Debug\net8.0\LeonardStorefront.runtimeconfig.json
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\bin\Debug\net8.0\LeonardStorefront.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\bin\Debug\net8.0\LeonardStorefront.pdb
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.AssemblyInfoInputs.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.AssemblyInfo.cs
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.csproj.CoreCompileInputs.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\refint\LeonardStorefront.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.pdb
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\LeonardStorefront.genruntimeconfig.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardStorefront\obj\Debug\net8.0\ref\LeonardStorefront.dll
